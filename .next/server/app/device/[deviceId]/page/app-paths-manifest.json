@@ -1,0 +1,3 @@
+{
+  "/device/[deviceId]/page": "app/device/[deviceId]/page.js"
+}
